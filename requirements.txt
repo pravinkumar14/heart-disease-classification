@@ -1,0 +1,11 @@
+statsmodels
+numpy
+pandas
+seaborn
+matplotlib
+tqdm
+scikit-learn
+imblearn
+kagglehub
+xgboost
+prettytable
